@@ -8,7 +8,7 @@ namespace TestApp
 {
     class Program
     {
-        //ConnectionString: Server=localhost;Database=master;Trusted_Connection=True;
+        //ConnectionString: Server=localhost;Database=DnD;Trusted_Connection=True;
         static void Main(string[] args)
         {
 
